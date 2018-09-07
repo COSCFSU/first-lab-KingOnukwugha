@@ -18,6 +18,7 @@ public class COSC_310_Lab00 {
         // TODO code application logic here
         
         int s = 4; 
+        int w = 22;
     }
     
 }
